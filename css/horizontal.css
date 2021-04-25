@@ -1,7 +1,19 @@
 nav#menu ul {
     list-style: none;
     text-transform: uppercase;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0, 0.3); /* Colocando borda */
+    border-color: green;
 }
 nav#menu li{
     display: inline-block;
+    font-size: 15px;
+    background-color: yellow;
+    padding: 6px;
+}
+nav#menu li:hover{ /* Quando passar o Mouse, mudar a cor do menu*/
+    background-color: red;
+}
+nav#menu a{
+    text-decoration: none;
 }
