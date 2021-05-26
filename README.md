@@ -1,2 +1,2 @@
 # Faculdade
-Exercicios resolvidos da faculdae. Tanto 2/3/4 Semestre. 
+Exercicios resolvidos da faculdade. Tanto 1/2/3/4 Semestre. 
